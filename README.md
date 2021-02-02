@@ -1,4 +1,4 @@
-Merhaba. Ben Mustafa Enes Güneruz. Ondokuz Mayıs Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim 😄
+Merhaba. Ben Mustafa Enes. Ondokuz Mayıs Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim 😄
 
 
 - 📫 Bana ulaşın:
