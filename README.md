@@ -27,7 +27,11 @@
 </p>
 <br />
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=menesguneruz&show_icons=true&theme=react)
+
+|GITHUB STATS|MOST USED LANGUAGES|
+|:---:|:---:|
+|[![menesguneruz's github stats](https://github-readme-stats.vercel.app/api?username=menesguneruz&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/menesguneruz/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menesguneruz&hide=Rich%20Text%20Format,scheme,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=menesguneruz)||
 
 <!-- BLOG-POST-LIST:START 
 <h2 align='left'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
