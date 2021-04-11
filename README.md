@@ -1,7 +1,7 @@
-Merhaba. Ben Mustafa Enes. Ondokuz Mayıs Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim 😄
+<h2>Hi there. I'm Mustafa Enes 👋<h2> 
 
 
-- 📫 Bana ulaşın:
+- 📫 Connect with me:
 
 
 <p align="center">
