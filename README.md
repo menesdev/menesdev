@@ -26,11 +26,11 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
-<br>
+<br />
 </p>
-<br>
-![](https://visitor-badge.laobi.icu/badge?page_id=menesguneruz.menesguneruz)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=menesguneruz&show_icons=true&theme=omni)
+<br />
+<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=menesguneruz&show_icons=true&theme=react)
 
 <!-- BLOG-POST-LIST:START 
 <h2 align='left'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
