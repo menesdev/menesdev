@@ -6,6 +6,7 @@
 <a href = 'https://www.linkedin.com/in/muenesguneruz/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://medium.com/@enes.guneruz'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a> 
 <a href = 'https://github.com/menesguneruz'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'mailto:mustafaguneruz19@gmail.com'> <img width = '35px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a> 
   
 
 
@@ -28,7 +29,8 @@
 <br>
 </p>
 <br>
-
+![](https://visitor-badge.laobi.icu/badge?page_id=menesguneruz.menesguneruz)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=menesguneruz&show_icons=true&theme=omni)
 
 <!-- BLOG-POST-LIST:START 
 <h2 align='left'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
@@ -43,6 +45,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menesguneruz&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menesguneruz&theme=react)
 
 
