@@ -3,9 +3,9 @@
 <div size='20px'> 
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='left'>
-<a href = 'https://www.linkedin.com/in/muenesguneruz/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/muenesdev/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://medium.com/@enes.guneruz'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a> 
-<a href = 'https://github.com/menesguneruz'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://github.com/menesdev'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'mailto:mustafaguneruz19@gmail.com'> <img width = '35px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a> 
   
 
@@ -30,16 +30,16 @@
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![menesguneruz's github stats](https://github-readme-stats.vercel.app/api?username=menesguneruz&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/menesguneruz/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menesguneruz&hide=Rich%20Text%20Format,scheme,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=menesguneruz)||
+|[![menesdev's github stats](https://github-readme-stats.vercel.app/api?username=menesdev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/menesdev/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menesdev&hide=Rich%20Text%20Format,scheme,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=menesdev)||
 
 <!-- BLOG-POST-LIST:START 
 <h2 align='left'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=menesguneruz&count_private=true&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=menesdev&count_private=true&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menesguneruz&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menesdev&theme=default" />
 </a>
 </div>
 -->
