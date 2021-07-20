@@ -3,7 +3,7 @@
 <div size='20px'> 
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='left'>
-<a href = 'https://www.linkedin.com/in/muenesdev/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/menesdev/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://medium.com/@enes.guneruz'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a> 
 <a href = 'https://github.com/menesdev'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'mailto:mustafaguneruz19@gmail.com'> <img width = '35px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a> 
