@@ -1,49 +1,23 @@
-<h2>Hi there. I'm Mustafa Enes 👋<h2> 
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-<div size='20px'> 
-<h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
-<p align='left'>
-<a href = 'https://www.linkedin.com/in/menesdev/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://medium.com/@menesdev'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a> 
-<a href = 'https://github.com/menesdev'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'mailto:mustafaguneruz19@gmail.com'> <img width = '35px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a> 
-  
+- 🔭 I’m currently working on **React projects**
 
+- 🌱 I’m currently learning **MERN, .NET and Postgre**
 
+- 👨‍💻 All of my projects are available at [https://github.com/menesdev?tab=repositories](https://github.com/menesdev?tab=repositories)
+
+- 📫 How to reach me **mustafaguneruz19@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/menesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menesdev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14809893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14809893" height="30" width="40" /></a>
+<a href="https://medium.com/@menesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@menesdev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/menesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="menesdev" height="30" width="40" /></a>
 </p>
-</div>
 
-<h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-<p align='left'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
-<img width ='44px' align='center' src='https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667'>
-<img width ='44px' align='center' src ='https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png'>
-<img width ='44px' align='center' src ='https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png'>
-<img width ='44px' align='center' src ='https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png'>
-<img width ='44px' align='center' src ='https://toppng.com/uploads/preview/database-database-icon-11563207079binxarjjyp.png'>                                                                                                    
-                                                                                                    
-<br />
-</p>
-<br />
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![menesdev's github stats](https://github-readme-stats.vercel.app/api?username=menesdev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/menesdev/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menesdev&hide=Rich%20Text%20Format,scheme,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=menesdev)||
-
-<!-- BLOG-POST-LIST:START 
-<h2 align='left'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=menesdev&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menesdev&theme=default" />
-</a>
-</div>
--->
-<!-- BLOG-POST-LIST:END -->
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=menesdev&show_icons=true&locale=en&layout=compact" alt="menesdev" /></p>
