@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **MERN, .NET and PostgreSQL**
+- 🌱 I’m currently learning **REACT & NODE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/menesdev?tab=repositories](https://github.com/menesdev?tab=repositories)
 
