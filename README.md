@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h1 align="center">Hi 👋, I'm Mustafa Enes</h1>
 <h3 align="center">A passionate frontend developer from Samsun/Turkey</h3>
 
 - 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **REACT & NODE**
+- 🌱 I’m currently learning **REACT & ANGULAR**
 
 - 👨‍💻 All of my projects are available at [https://github.com/menesdev?tab=repositories](https://github.com/menesdev?tab=repositories)
 
